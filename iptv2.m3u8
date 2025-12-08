@@ -53,8 +53,8 @@ http://192.168.0.1:4022/udp/233.18.204.173:5140
 #EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="CHC",CHC动作电影HD
 http://192.168.0.1:4022/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC影迷电影HD
-
 http://192.168.0.1:4022/udp/233.18.204.175:5140
+
 #EXTINF:-1 tvg-id="82" tvg-name="世界地理" tvg-logo="https://epg.deny.vip/cctv/CCTV-SJDL.png" group-title="央视",世界地理HD
 http://192.168.0.1:4022/udp/233.18.204.179:5140
 #EXTINF:-1 tvg-id="87" tvg-name="怀旧剧场" tvg-logo="https://epg.deny.vip/cctv/CCTV-HJJC.png" group-title="央视",怀旧剧场HD
@@ -66,8 +66,8 @@ http://192.168.0.1:4022/udp/233.18.204.184:5140
 #EXTINF:-1 tvg-id="90" tvg-name="风云音乐" tvg-logo="https://epg.deny.vip/cctv/CCTV-FYYY.png" group-title="央视",风云音乐HD
 http://192.168.0.1:4022/udp/233.18.204.185:5140
 #EXTINF:-1 tvg-id="91" tvg-name="央视文化精品" tvg-logo="https://epg.deny.vip/cctv/CCTV-YSWHJP.png" group-title="央视",央视文化精品HD
-
 http://192.168.0.1:4022/udp/233.18.204.60:5140
+
 #EXTINF:-1 tvg-id="116" tvg-name="上海教育" tvg-logo="https://epg.deny.vip/df/上海教育.png" group-title="地方",上海教育HD
 http://192.168.0.1:4022/udp/233.18.204.63:5140
 #EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场4K
@@ -81,6 +81,7 @@ http://192.168.0.1:4022/udp/233.18.204.169:5140$2160p
 http://192.168.0.1:4022/udp/233.18.204.170:5140$2160p
 #EXTINF:-1 tvg-name=171 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/171.png",171
 http://192.168.0.1:4022/udp/233.18.204.171:5140$2160p
+
 
 
 
