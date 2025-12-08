@@ -6,30 +6,16 @@ http://192.168.0.1:4022/udp/233.18.204.52:5140
 http://192.168.0.1:4022/udp/233.18.204.68:5140
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="央视",CCTV-3HD
 http://192.168.0.1:4022/udp/233.18.204.69:5140
-#EXTINF:-1 tvg-id="127" tvg-name="CCTV-4" tvg-logo="https://epg.deny.vip/cctv/CCTV-4.png" group-title="央视",CCTV-4HD
-http://192.168.0.1:4022/udp/233.18.204.70:5140
 #EXTINF:-1 tvg-id="128" tvg-name="CCTV-5" tvg-logo="https://epg.deny.vip/cctv/CCTV-5.png" group-title="央视",CCTV-5HD
 http://192.168.0.1:4022/udp/233.18.204.71:5140
 #EXTINF:-1 tvg-id="123" tvg-name="CCTV-5+" tvg-logo="https://epg.deny.vip/cctv/CCTV-5+.png" group-title="央视",CCTV-5+HD
 http://192.168.0.1:4022/udp/233.18.204.67:5140
 #EXTINF:-1 tvg-id="129" tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="央视",CCTV-6HD
 http://192.168.0.1:4022/udp/233.18.204.72:5140
-#EXTINF:-1 tvg-id="130" tvg-name="CCTV-7" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="央视",CCTV-7HD
-http://192.168.0.1:4022/udp/233.18.204.73:5140
-#EXTINF:-1 tvg-id="131" tvg-name="CCTV-8" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="央视",CCTV-8HD
-http://192.168.0.1:4022/udp/233.18.204.74:5140
 #EXTINF:-1 tvg-id="132" tvg-name="CCTV-9" tvg-logo="https://epg.deny.vip/cctv/CCTV-9.png" group-title="央视",CCTV-9HD
 http://192.168.0.1:4022/udp/233.18.204.75:5140
 #EXTINF:-1 tvg-id="133" tvg-name="CCTV-10" tvg-logo="https://epg.deny.vip/cctv/CCTV-10.png" group-title="央视",CCTV-10HD
 http://192.168.0.1:4022/udp/233.18.204.76:5140
-#EXTINF:-1 tvg-id="134" tvg-name="CCTV-11" tvg-logo="https://epg.deny.vip/cctv/CCTV-11.png" group-title="央视",CCTV-11HD
-http://192.168.0.1:4022/udp/233.18.204.77:5140
-#EXTINF:-1 tvg-id="135" tvg-name="CCTV-12" tvg-logo="https://epg.deny.vip/cctv/CCTV-12.png" group-title="央视",CCTV-12HD
-http://192.168.0.1:4022/udp/233.18.204.78:5140
-#EXTINF:-1 tvg-id="136" tvg-name="CCTV-13" tvg-logo="https://epg.deny.vip/cctv/CCTV-13.png" group-title="央视",CCTV-13HD
-http://192.168.0.1:4022/udp/233.18.204.79:5140
-#EXTINF:-1 tvg-id="137" tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="央视",CCTV-14HD
-http://192.168.0.1:4022/udp/233.18.204.80:5140
 #EXTINF:-1 tvg-id="138" tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="央视",CCTV-15HD
 http://192.168.0.1:4022/udp/233.18.204.81:5140
 #EXTINF:-1 tvg-id="179" tvg-name="CCTV-16" tvg-logo="https://epg.deny.vip/cctv/CCTV-16.png" group-title="央视",CCTV-16 4K
@@ -39,16 +25,8 @@ http://192.168.0.1:4022/udp/233.18.204.204:5140
 
 #EXTINF:-1 tvg-id="82" tvg-name="世界地理" tvg-logo="https://epg.deny.vip/cctv/CCTV-SJDL.png" group-title="央视",世界地理HD
 http://192.168.0.1:4022/udp/233.18.204.179:5140
-#EXTINF:-1 tvg-id="87" tvg-name="怀旧剧场" tvg-logo="https://epg.deny.vip/cctv/CCTV-HJJC.png" group-title="央视",怀旧剧场HD
-http://192.168.0.1:4022/udp/233.18.204.182:5140
-#EXTINF:-1 tvg-id="88" tvg-name="风云剧场" tvg-logo="https://epg.deny.vip/cctv/CCTV-FYJC.png" group-title="央视",风云剧场HD
-http://192.168.0.1:4022/udp/233.18.204.183:5140
-#EXTINF:-1 tvg-id="89" tvg-name="第一剧场" tvg-logo="https://epg.deny.vip/cctv/CCTV-DYJC.png" group-title="央视",第一剧场HD
-http://192.168.0.1:4022/udp/233.18.204.184:5140
 #EXTINF:-1 tvg-id="90" tvg-name="风云音乐" tvg-logo="https://epg.deny.vip/cctv/CCTV-FYYY.png" group-title="央视",风云音乐HD
 http://192.168.0.1:4022/udp/233.18.204.185:5140
-#EXTINF:-1 tvg-id="91" tvg-name="央视文化精品" tvg-logo="https://epg.deny.vip/cctv/CCTV-YSWHJP.png" group-title="央视",央视文化精品HD
-http://192.168.0.1:4022/udp/233.18.204.60:5140
 
 #EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="CHC",CHC家庭影院HD
 http://192.168.0.1:4022/udp/233.18.204.173:5140
@@ -57,15 +35,16 @@ http://192.168.0.1:4022/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC影迷电影HD
 http://192.168.0.1:4022/udp/233.18.204.175:5140
 
-#EXTINF:-1 tvg-id="169" tvg-name="BesTV" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="BesTV",BesTV 4K
+#EXTINF:-1 tvg-id="169" tvg-name="BesTV电影" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="BesTV",BesTV4K电影
 http://192.168.0.1:4022/udp/233.18.204.169:5140
-#EXTINF:-1 tvg-id="170" tvg-name="BesTV" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="BesTV",BesTV 4K
+#EXTINF:-1 tvg-id="170" tvg-name="BesTV纪录" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="BesTV",BesTV4K纪录
 http://192.168.0.1:4022/udp/233.18.204.170:5140
-#EXTINF:-1 tvg-id="171" tvg-name="BesTV" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="BesTV",BesTV 4K
+#EXTINF:-1 tvg-id="171" tvg-name="BesTV动画" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="BesTV",BesTV4K动画
 http://192.168.0.1:4022/udp/233.18.204.171:5140
 
 #EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场4K
 http://192.168.0.1:4022/udp/233.18.204.205:5140
+
 
 
 
