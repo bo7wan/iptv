@@ -45,6 +45,8 @@ http://192.168.0.1:4022/udp/233.18.204.81:5140
 http://192.168.0.1:4022/udp/233.18.204.215:5140
 #EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K" tvg-logo="https://epg.deny.vip/cctv/CCTV-4K.png" group-title="央视",CCTV-4K
 http://192.168.0.1:4022/udp/233.18.204.188:5140
+#EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K" tvg-logo="https://epg.deny.vip/cctv/CCTV-4K.png" group-title="央视",CCTV-4K
+http://192.168.0.1:4022/udp/233.18.204.204:5140
 
 #EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="CHC",CHC家庭影院HD
 http://192.168.0.1:4022/udp/233.18.204.173:5140
@@ -70,3 +72,15 @@ http://192.168.0.1:4022/udp/233.18.204.60:5140
 http://192.168.0.1:4022/udp/233.18.204.63:5140
 #EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场4K
 http://192.168.0.1:4022/udp/233.18.204.115:5140
+#EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场4K
+http://192.168.0.1:4022/udp/233.18.204.205:5140
+
+#EXTINF:-1 tvg-name=169 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/169.png",169
+http://192.168.0.1:4022/udp/233.18.204.169:5140$2160p
+#EXTINF:-1 tvg-name=170 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/170.png",170
+http://192.168.0.1:4022/udp/233.18.204.170:5140$2160p
+#EXTINF:-1 tvg-name=171 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/171.png",171
+http://192.168.0.1:4022/udp/233.18.204.171:5140$2160p
+
+
+
