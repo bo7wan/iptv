@@ -42,8 +42,9 @@ http://192.168.0.1:4022/udp/233.18.204.170:5140
 #EXTINF:-1 tvg-id="171" tvg-name="BesTV动画" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="BesTV",BesTV动画 4K
 http://192.168.0.1:4022/udp/233.18.204.171:5140
 
-#EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场4K
+#EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场 4K
 http://192.168.0.1:4022/udp/233.18.204.205:5140
+
 
 
 
