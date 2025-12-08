@@ -35,15 +35,16 @@ http://192.168.0.1:4022/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC影迷电影 HD
 http://192.168.0.1:4022/udp/233.18.204.175:5140
 
-#EXTINF:-1 tvg-id="169" tvg-name="BesTV电影" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="BesTV",BesTV电影 4K
+#EXTINF:-1 tvg-id="169" tvg-name="BesTV电影" group-title="BesTV",BESTV
 http://192.168.0.1:4022/udp/233.18.204.169:5140
-#EXTINF:-1 tvg-id="170" tvg-name="BesTV纪录" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="BesTV",BesTV纪录 4K
+#EXTINF:-1 tvg-id="170" tvg-name="BesTV纪录" group-title="BesTV",BESTV
 http://192.168.0.1:4022/udp/233.18.204.170:5140
-#EXTINF:-1 tvg-id="171" tvg-name="BesTV动画" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="BesTV",BesTV动画 4K
+#EXTINF:-1 tvg-id="171" tvg-name="BesTV动画" group-title="BesTV",BESTV
 http://192.168.0.1:4022/udp/233.18.204.171:5140
 
 #EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场 4K
 http://192.168.0.1:4022/udp/233.18.204.205:5140
+
 
 
 
