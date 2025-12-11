@@ -2,13 +2,9 @@
 #央视
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://192.168.0.1:4022/udp/233.18.204.52:5140
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://192.168.0.1:4022/udp/233.18.204.168:5140
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://192.168.0.1:4022/udp/239.45.3.145:5140
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://192.168.0.1:4022/udp/239.45.3.88:5140
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://192.168.0.1:4022/udp/239.45.1.21:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV2
 http://192.168.0.1:4022/udp/233.18.204.68:5140
@@ -127,4 +123,5 @@ http://192.168.0.1:4022/udp/233.18.204.171:5140
 http://192.168.0.1:4022/udp/233.18.204.170:5140
 #EXTINF:-1 tvg-id="-1" tvg-name="BesTV 4k电影" tvg-logo="https://live.fanmingming.cn/tv/BesTV.png" group-title="BesTV",BesTV 4k电影
 http://192.168.0.1:4022/udp/233.18.204.169:5140
+
 
