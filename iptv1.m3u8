@@ -9,7 +9,7 @@ http://192.168.0.1:4022/udp/233.18.204.69:5140
 #EXTINF:-1 tvg-id="128" tvg-name="CCTV-5" tvg-logo="https://epg.deny.vip/cctv/CCTV-5.png" group-title="央视",CCTV-5
 http://192.168.0.1:4022/udp/233.18.204.71:5140
 
-#EXTINF:-1 tvg-id="107" tvg-name="新闻综合" group-title="地方",上海新闻综合
+#EXTINF:-1 tvg-id="107" tvg-name="新闻综合" group-title="地方",新闻综合
 http://192.168.0.1:4022/udp/233.18.204.57:5140
 
 #EXTINF:-1 tvg-id="101" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视
@@ -18,6 +18,7 @@ http://192.168.0.1:4022/udp/233.18.204.51:5140
 http://192.168.0.1:4022/udp/233.18.204.86:5140
 #EXTINF:-1 tvg-id="141" tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://192.168.0.1:4022/udp/233.18.204.84:5140
+
 
 
 
