@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-id="107" tvg-name="上海新闻" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="地方",新闻综合
 http://192.168.0.1:4022/udp/233.18.204.57:5140
-#EXTINF:-1 tvg-id="112"  tvg-name="东方购物-1" tvg-logo=""  group-title="",东方购物-1
+#EXTINF:-1 tvg-id="112"  tvg-name="东方购物-1" tvg-logo=""  group-title="地方",东方购物-1
 http://192.168.0.1:4022/udp/233.18.204.61:5140
-#EXTINF:-1 tvg-id="113"  tvg-name="东方购物-2" tvg-logo=""  group-title="",东方购物-2
+#EXTINF:-1 tvg-id="113"  tvg-name="东方购物-2" tvg-logo=""  group-title="地方",东方购物-2
 http://192.168.0.1:4022/udp/233.18.204.62:5140
 
 #EXTINF:-1 tvg-id="101" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视
@@ -39,6 +39,7 @@ http://192.168.0.1:4022/udp/233.18.204.82:5140
 http://192.168.0.1:4022/udp/233.18.204.215:5140
 #EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K" tvg-logo="https://epg.deny.vip/cctv/CCTV-4K.png" group-title="央视",CCTV-4K
 http://192.168.0.1:4022/udp/233.18.204.204:5140
+
 
 
 
