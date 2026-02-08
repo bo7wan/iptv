@@ -41,6 +41,28 @@ http://192.168.0.1:4022/udp/233.18.204.215:5140
 http://192.168.0.1:4022/udp/233.18.204.188:5140
 http://192.168.0.1:4022/udp/233.18.204.204:5140
 
+#EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场4K" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场
+http://192.168.0.1:4022/udp/233.18.204.205:5140
+
+#EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="CHC",CHC家庭影院
+http://192.168.0.1:4022/udp/233.18.204.173:5140
+#EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="CHC",CHC动作电影
+http://192.168.0.1:4022/udp/233.18.204.174:5140
+#EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC影迷电影
+http://192.168.0.1:4022/udp/233.18.204.175:5140
+
+#EXTINF:-1 tvg-id="169" tvg-name="百视通" group-title="百视通",BesTV电影
+http://192.168.0.1:4022/udp/233.18.204.169:5140
+#EXTINF:-1 tvg-id="170" tvg-name="百视通" group-title="百视通",BesTV纪录
+http://192.168.0.1:4022/udp/233.18.204.170:5140
+#EXTINF:-1 tvg-id="171" tvg-name="百视通" group-title="百视通",BesTV动画
+http://192.168.0.1:4022/udp/233.18.204.171:5140
+
+#EXTINF:-1 tvg-id="82" tvg-name="世界地理" tvg-logo="https://epg.deny.vip/cctv/CCTV-SJDL.png" group-title="央视",世界地理
+http://192.168.0.1:4022/udp/233.18.204.179:5140
+#EXTINF:-1 tvg-id="90" tvg-name="风云音乐" tvg-logo="https://epg.deny.vip/cctv/CCTV-FYYY.png" group-title="央视",风云音乐
+http://192.168.0.1:4022/udp/233.18.204.185:5140
+
 
 
 
