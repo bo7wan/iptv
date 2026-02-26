@@ -1,22 +1,5 @@
 #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
 
-#EXTINF:-1 tvg-id="107" tvg-name="上海新闻" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="地方",新闻综合
-http://192.168.0.1:4022/udp/233.18.204.57:5140
-#EXTINF:-1 tvg-id="112"  tvg-name="东方购物" tvg-logo=""  group-title="地方",东方购物-1
-http://192.168.0.1:4022/udp/233.18.204.61:5140
-#EXTINF:-1 tvg-id="113"  tvg-name="东方购物" tvg-logo=""  group-title="地方",东方购物-2
-http://192.168.0.1:4022/udp/233.18.204.62:5140
-
-#EXTINF:-1 tvg-id="101" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视
-http://192.168.0.1:4022/udp/233.18.204.51:5140
-http://192.168.0.1:4022/udp/233.18.204.224:5140
-#EXTINF:-1 tvg-id="143" tvg-name="湖南卫视" tvg-logo="https://epg.deny.vip/ws/hunan.png" group-title="卫视",湖南卫视
-http://192.168.0.1:4022/udp/233.18.204.86:5140
-http://192.168.0.1:4022/udp/233.18.204.227:5140
-#EXTINF:-1 tvg-id="141" tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://192.168.0.1:4022/udp/233.18.204.84:5140
-http://192.168.0.1:4022/udp/233.18.204.229:5140
-
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1
 http://192.168.0.1:4022/udp/233.18.204.52:5140
 http://192.168.0.1:4022/udp/233.18.204.168:5140
@@ -48,12 +31,32 @@ http://192.168.0.1:4022/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC影迷电影
 http://192.168.0.1:4022/udp/233.18.204.175:5140
 
-#EXTINF:-1 tvg-id="169" tvg-name="百视通" group-title="百视通",BesTV电影
-http://192.168.0.1:4022/udp/233.18.204.169:5140
 #EXTINF:-1 tvg-id="170" tvg-name="百视通" group-title="百视通",BesTV纪录
 http://192.168.0.1:4022/udp/233.18.204.170:5140
+#EXTINF:-1 tvg-id="169" tvg-name="百视通" group-title="百视通",BesTV电影
+http://192.168.0.1:4022/udp/233.18.204.169:5140
 #EXTINF:-1 tvg-id="171" tvg-name="百视通" group-title="百视通",BesTV动画
 http://192.168.0.1:4022/udp/233.18.204.171:5140
+
+#EXTINF:-1 tvg-id="112"  tvg-name="东方购物" tvg-logo=""  group-title="地方",东方购物-1
+http://192.168.0.1:4022/udp/233.18.204.61:5140
+#EXTINF:-1 tvg-id="113"  tvg-name="东方购物" tvg-logo=""  group-title="地方",东方购物-2
+http://192.168.0.1:4022/udp/233.18.204.62:5140
+#EXTINF:-1 tvg-id="107" tvg-name="上海新闻" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="地方",新闻综合
+http://192.168.0.1:4022/udp/233.18.204.57:5140
+
+#EXTINF:-1 tvg-id="101" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视
+http://192.168.0.1:4022/udp/233.18.204.51:5140
+http://192.168.0.1:4022/udp/233.18.204.224:5140
+#EXTINF:-1 tvg-id="143" tvg-name="湖南卫视" tvg-logo="https://epg.deny.vip/ws/hunan.png" group-title="卫视",湖南卫视
+http://192.168.0.1:4022/udp/233.18.204.86:5140
+http://192.168.0.1:4022/udp/233.18.204.227:5140
+#EXTINF:-1 tvg-id="141" tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://192.168.0.1:4022/udp/233.18.204.84:5140
+http://192.168.0.1:4022/udp/233.18.204.229:5140
+
+
+
 
 
 
