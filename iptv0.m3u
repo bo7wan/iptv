@@ -30,7 +30,7 @@ http://192.168.0.1:4022/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC影迷电影
 http://192.168.0.1:4022/udp/233.18.204.175:5140
 
-#EXTINF:-1 tvg-id=""  tvg-name="欢笑剧场4K' " tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png"  group-title="SMG",欢笑剧场 4K
+#EXTINF:-1 tvg-id=""  tvg-name="欢笑剧场4K' " tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png"  group-title="SMG",欢笑剧场4K
 http://192.168.0.1:4022/udp/233.18.204.115:5140
 http://192.168.0.1:4022/udp/233.18.204.205:5140
 
@@ -45,7 +45,7 @@ http://192.168.0.1:4022/udp/233.18.204.171:5140
 http://192.168.0.1:4022/udp/233.18.204.61:5140
 #EXTINF:-1 tvg-id="113"  tvg-name="东方购物" tvg-logo=""  group-title="地方",东方购物-2
 http://192.168.0.1:4022/udp/233.18.204.62:5140
-#EXTINF:-1 tvg-id=""  tvg-name="上海教育" tvg-logo=""  group-title="地方",上海教育 HD
+#EXTINF:-1 tvg-id=""  tvg-name="上海教育" tvg-logo=""  group-title="地方",上海教育
 http://192.168.0.1:4022/udp/233.18.204.63:5140
 #EXTINF:-1 tvg-id="107" tvg-name="上海新闻" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="地方",新闻综合
 http://192.168.0.1:4022/udp/233.18.204.57:5140
