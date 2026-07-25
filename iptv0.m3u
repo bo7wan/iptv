@@ -2,7 +2,6 @@
 
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1
 http://192.168.0.1:4022/udp/233.18.204.52:5140
-http://192.168.0.1:4022/udp/233.18.204.168:5140
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="央视",CCTV-2
 http://192.168.0.1:4022/udp/233.18.204.68:5140
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="央视",CCTV-3
@@ -31,6 +30,10 @@ http://192.168.0.1:4022/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC影迷电影
 http://192.168.0.1:4022/udp/233.18.204.175:5140
 
+#EXTINF:-1 tvg-id=""  tvg-name="欢笑剧场4K' " tvg-logo=""  group-title="SMG",欢笑剧场 4K
+http://192.168.0.1:4022/udp/233.18.204.115:5140
+http://192.168.0.1:4022/udp/233.18.204.205:5140
+
 #EXTINF:-1 tvg-id="170" tvg-name="百视通" group-title="百视通",BesTV纪录
 http://192.168.0.1:4022/udp/233.18.204.170:5140
 #EXTINF:-1 tvg-id="169" tvg-name="百视通" group-title="百视通",BesTV电影
@@ -42,6 +45,8 @@ http://192.168.0.1:4022/udp/233.18.204.171:5140
 http://192.168.0.1:4022/udp/233.18.204.61:5140
 #EXTINF:-1 tvg-id="113"  tvg-name="东方购物" tvg-logo=""  group-title="地方",东方购物-2
 http://192.168.0.1:4022/udp/233.18.204.62:5140
+#EXTINF:-1 tvg-id=""  tvg-name="上海教育" tvg-logo=""  group-title="地方",上海教育 HD
+http://192.168.0.1:4022/udp/233.18.204.63:5140
 #EXTINF:-1 tvg-id="107" tvg-name="上海新闻" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="地方",新闻综合
 http://192.168.0.1:4022/udp/233.18.204.57:5140
 
