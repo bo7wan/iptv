@@ -30,7 +30,7 @@ http://192.168.0.1:4022/udp/233.18.204.174:5140
 #EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC影迷电影
 http://192.168.0.1:4022/udp/233.18.204.175:5140
 
-#EXTINF:-1 tvg-id=""  tvg-name="欢笑剧场4K' " tvg-logo=""  group-title="SMG",欢笑剧场 4K
+#EXTINF:-1 tvg-id=""  tvg-name="欢笑剧场4K' " tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png"  group-title="SMG",欢笑剧场 4K
 http://192.168.0.1:4022/udp/233.18.204.115:5140
 http://192.168.0.1:4022/udp/233.18.204.205:5140
 
